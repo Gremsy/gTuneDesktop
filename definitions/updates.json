@@ -4,15 +4,15 @@
       "open-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.8/gTuneDesktop1.4.8_Windows.zip",
       "latest-version": "1.4.8",
       "download-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.8/gTuneDesktop1.4.8_Windows.zip",
-      "changelog": "This release brings many improvements to our first version, including:\n\n• Markdown formatting.\n• Highlighted search.\n• Option for a native window frame.\n• Minor aesthetic changes.\n• Many bug fixes.\n\nAlso, we're happy to announce that Notes has been downloaded more than half a million times! And counting! More than the numbers, it is the emails we get from people about how Notes been a great tool for them. This is what truly matters to us.\n\nVersion 2.0.0 is going to be packed with some new features (folders and tags among them). Stay tuned.",
+      "changelog": "# What's new ?\r\n- add new gimbal PIXY-SM, PIXY PE, T3 PE\r\n- new feature accel tuning (only suport T3V3).\r\n- new feature chan ge baudrate.\r\n- show name IMU.",
       "mandatory": true
     },
     "mac": {
       "open-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.8/gTuneDesktop1.4.8_Mac.zip",
       "latest-version": "1.4.8",
       "download-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.8/gTuneDesktop1.4.8_Mac.zip",
-      "changelog": "This release brings many improvements to our first version, including:\n\n• Markdown formatting.\n• Highlighted search.\n• Option for a native window frame.\n• Minor aesthetic changes.\n• Many bug fixes.\n\nAlso, we're happy to announce that Notes has been downloaded more than half a million times! And counting! More than the numbers, it is the emails we get from people about how Notes been a great tool for them. This is what truly matters to us.\n\nVersion 2.0.0 is going to be packed with some new features (folders and tags among them). Stay tuned.",
-      "mandatory": true
+      "changelog": "# What's new ?\r\n- add new gimbal PIXY-SM, PIXY PE, T3 PE\r\n- new feature accel tuning (only suport T3V3).\r\n- new feature chan ge baudrate.\r\n- show name IMU.",      		
+	  "mandatory": true
     }
   }
 }
