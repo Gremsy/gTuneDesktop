@@ -7,7 +7,7 @@
       "changelog": "# What's new ?\r\n- add new gimbal PIXY-SM, PIXY PE, T3 PE\r\n- new feature accel tuning (only suport T3V3).\r\n- new feature chan ge baudrate.\r\n- show name IMU.",
       "mandatory": true
     },
-    "mac": {
+    "osx": {
       "open-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.8/gTuneDesktop1.4.8_Mac.zip",
       "latest-version": "1.4.8",
       "download-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.8/gTuneDesktop1.4.8_Mac.zip",
