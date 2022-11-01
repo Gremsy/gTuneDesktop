@@ -1,17 +1,17 @@
 {
   "updates": {
     "windows": {
-      "open-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.8/gTuneDesktop1.4.8_Windows.zip",
-      "latest-version": "1.4.8",
-      "download-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.8/gTuneDesktop1.4.8_Windows.zip",
-      "changelog": "# What's new ?\r\n- add new gimbal PIXY-SM, PIXY PE, T3 PE\r\n- new feature accel tuning (only suport T3V3).\r\n- new feature chan ge baudrate.\r\n- show name IMU.",
+      "open-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.9.0/gTuneDesktop1.4.9.0_Windows_Preview.zip",
+      "latest-version": "1.4.9.0",
+      "download-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.9.0/gTuneDesktop1.4.9.0_Windows_Preview.zip",
+      "changelog": "#What new ?\r\n- New feature \"UPGRADE THIS APP\"\r\nOpen gTune --> UPGRADE --> UPGRADE THIS APP\r\n- New feature \"UPGRADE FIRMWARE\"\r\nOpen gTune --> UPGRADE --> UPGRADE FIRMWARE --> AUTO UPGRADE\r\n- Feature Auto Tune\r\nOpen gTune -->SETTINGS --> STIFFNESS\r\nNote: This is still a beta development feature, so please be carefull \r\n- Detect gimbal T3_2AXIS when connect with gTuneDesktop ",
       "mandatory": true
     },
-    "osx": {
-      "open-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.8/gTuneDesktop1.4.8_Mac.zip",
-      "latest-version": "1.4.8",
-      "download-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.8/gTuneDesktop1.4.8_Mac.zip",
-      "changelog": "# What's new ?\r\n- add new gimbal PIXY-SM, PIXY PE, T3 PE\r\n- new feature accel tuning (only suport T3V3).\r\n- new feature chan ge baudrate.\r\n- show name IMU.",      		
+    "mac": {
+      "open-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.9.0/gTuneDesktop1.4.9.0_Mac_Preview.zip",
+      "latest-version": "1.4.9.0",
+      "download-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.9.0/gTuneDesktop1.4.9.0_Mac_Preview.zip",
+      "changelog": "#What new ?\r\n- New feature \"UPGRADE THIS APP\"\r\nOpen gTune --> UPGRADE --> UPGRADE THIS APP\r\n- New feature \"UPGRADE FIRMWARE\"\r\nOpen gTune --> UPGRADE --> UPGRADE FIRMWARE --> AUTO UPGRADE\r\n- Feature Auto Tune\r\nOpen gTune -->SETTINGS --> STIFFNESS\r\nNote: This is still a beta development feature, so please be carefull \r\n- Detect gimbal T3_2AXIS when connect with gTuneDesktop ",      		
 	  "mandatory": true
     }
   }
