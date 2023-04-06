@@ -1,18 +1,18 @@
 {
-  "updates": {
-    "windows": {
-      "open-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.9.0/gTuneDesktop1.4.9.0_Windows_Preview.zip",
-      "latest-version": "1.4.9.0",
-      "download-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.9.0/gTuneDesktop1.4.9.0_Windows_Preview.zip",
-      "changelog": "#What new ?\r\n- New feature \"UPGRADE THIS APP\"\r\nOpen gTune --> UPGRADE --> UPGRADE THIS APP\r\n- New feature \"UPGRADE FIRMWARE\"\r\nOpen gTune --> UPGRADE --> UPGRADE FIRMWARE --> AUTO UPGRADE\r\n- Feature Auto Tune\r\nOpen gTune -->SETTINGS --> STIFFNESS\r\nNote: This is still a beta development feature, so please be carefull \r\n- Detect gimbal T3_2AXIS when connect with gTuneDesktop ",
-      "mandatory": true
+  "updates":{
+    "windows":{
+      "open-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v.1.4.9.1/gTuneDesktop1.4.9.1_Windows_Official.zip",
+      "latest-version":"1.4.9.1",
+      "download-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v.1.4.9.1/gTuneDesktop1.4.9.1_Windows_Official.zip",
+      "changelog":"#What new ?\r\n- Detect gimbal pixyS when connect with gTuneDesktop \r\n- Add button import PROFILES gimbal \r\n #Fixbug: - Fix error when connecting gimbal AEVO with gTuneDesktop v1.4.9.0 ",
+      "mandatory":true
     },
-    "mac": {
-      "open-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.9.0/gTuneDesktop1.4.9.0_Mac_Preview.zip",
-      "latest-version": "1.4.9.0",
-      "download-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.9.0/gTuneDesktop1.4.9.0_Mac_Preview.zip",
-      "changelog": "#What new ?\r\n- New feature \"UPGRADE THIS APP\"\r\nOpen gTune --> UPGRADE --> UPGRADE THIS APP\r\n- New feature \"UPGRADE FIRMWARE\"\r\nOpen gTune --> UPGRADE --> UPGRADE FIRMWARE --> AUTO UPGRADE\r\n- Feature Auto Tune\r\nOpen gTune -->SETTINGS --> STIFFNESS\r\nNote: This is still a beta development feature, so please be carefull \r\n- Detect gimbal T3_2AXIS when connect with gTuneDesktop ",      		
-	  "mandatory": true
+    "mac":{
+    "open-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v.1.4.9.1/gTuneDesktop1.4.9.1_Mac_Official.zip",
+    "latest-version":"1.4.9.1",
+    "download-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v.1.4.9.1/gTuneDesktop1.4.9.1_Mac_Official.zip",
+    "changelog":"#What new ?\r\n- Detect gimbal pixyS when connect with gTuneDesktop \r\n- Add button import PROFILES gimbal \r\n #Fixbug: - Fix error when connecting gimbal AEVO with gTuneDesktop v1.4.9.0 ",
+    "mandatory":true
     }
   }
 }
