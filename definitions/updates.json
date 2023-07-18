@@ -1,17 +1,17 @@
 {
   "updates":{
     "windows":{
-      "open-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v.1.4.9.1/gTuneDesktop1.4.9.1_Windows_Official.zip",
-      "latest-version":"1.4.9.1",
-      "download-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v.1.4.9.1/gTuneDesktop1.4.9.1_Windows_Official.zip",
-      "changelog":"#What new ?\r\n- Detect gimbal pixyS when connect with gTuneDesktop \r\n- Add button import PROFILES gimbal \r\n Fixbug:\r\n - Fix error when connecting gimbal AEVO with gTuneDesktop v1.4.9.0 ",
+      "open-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v.1.4.9.2/gTuneDesktop1.4.9.2_Windows_Official.zip",
+      "latest-version":"1.4.9.2",
+      "download-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v.1.4.9.2/gTuneDesktop1.4.9.2_Windows_Official.zip",
+      "changelog":"# Change logs? \r\n - Remove: SETTING -> CANLINK \r\n- Remove: SETTING -> ROTATION \r\n - Remove: CONTROL -> SYNC \r\n - Remove: CONTROL -> JOYTICK \r\n # What new? \r\n - Detect gimbal PIXY Q \r\n- - Detect gimbal G-Hadron \r\n- Detect gimbal MIO-2Axis \r\n- - Open Auto Tune: S1V3, T3V3,T7,MiO, Pixy U, Pixy PE, Pixy S \r\n -- Support updating gimbal profile with '.zip' file ",
       "mandatory":true
     },
     "mac":{
-    "open-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v.1.4.9.1/gTuneDesktop1.4.9.1_Mac_Official.zip",
-    "latest-version":"1.4.9.1",
-    "download-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v.1.4.9.1/gTuneDesktop1.4.9.1_Mac_Official.zip",
-    "changelog":"#What new ?\r\n- Detect gimbal pixyS when connect with gTuneDesktop \r\n- Add button import PROFILES gimbal \r\n Fixbug:\r\n - Fix error when connecting gimbal AEVO with gTuneDesktop v1.4.9.0 ",
+    "open-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v.1.4.9.2/gTuneDesktop1.4.9.2_Mac_Official.zip",
+    "latest-version":"1.4.9.2",
+    "download-url":"https://github.com/Gremsy/gTuneDesktop/releases/download/v.1.4.9.2/gTuneDesktop1.4.9.2_Windows_Official.zip",
+      "changelog":"# Change logs? \r\n - Remove: SETTING -> CANLINK \r\n- Remove: SETTING -> ROTATION \r\n - Remove: CONTROL -> SYNC \r\n - Remove: CONTROL -> JOYTICK \r\n # What new? \r\n - Detect gimbal PIXY Q \r\n- - Detect gimbal G-Hadron \r\n- Detect gimbal MIO-2Axis \r\n- - Open Auto Tune: S1V3, T3V3,T7,MiO, Pixy U, Pixy PE, Pixy S \r\n -- Support updating gimbal profile with '.zip' file ",
     "mandatory":true
     }
   }
